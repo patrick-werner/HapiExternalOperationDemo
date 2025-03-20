@@ -11,7 +11,7 @@
   <description>HapiCustomClasses</description>
 
   <properties>
-    <maven.compiler.release>21</maven.compiler.release>
+    <maven.compiler.release>17</maven.compiler.release>
     <hapi.version>8.0.0</hapi.version>
     <spring.version>3.4.3</spring.version>
   </properties>
